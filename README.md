@@ -1,3 +1,7 @@
+##### View Deployed application @ https://davidlemerle.github.io/Code.Refractor/
+#### Project repository @ https://github.com/davidlemerle/Code.Refractor
+
+
 ## User Story
 
 ```
