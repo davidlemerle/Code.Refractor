@@ -52,7 +52,7 @@ p {
     font-size: 16px;
 }
 /* Website's main/welcome image dimensions, backgorund size and positioning */
-#mainpicture {
+#mainimage {
     height: 840px;
     width: 100%;
     margin-bottom: 25px;
