@@ -18,8 +18,8 @@ Refactoring existing code (improving it without changing what it does) to meet a
 
 ## **Links**
 
- #### View Deployed application @ https://davidlemerle.github.io/Code.Refractor/
- #### Project repository @ https://github.com/davidlemerle/Code.Refractor
+ #### View Deployed application @ https://davidlemerle.github.io/Horiseon-Website-Refactoring/
+ #### Project repository @ https://github.com/davidlemerle/Horiseon-Website-Refactoring
 
 
 ## **User Story**
