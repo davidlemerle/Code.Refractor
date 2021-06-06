@@ -1,8 +1,28 @@
-##### View Deployed application @ https://davidlemerle.github.io/Code.Refractor/
-#### Project repository @ https://github.com/davidlemerle/Code.Refractor
+# **CODE REFRACTOR**
 
 
-## User Story
+## **Description**
+
+Refactoring existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology. A marketing agency has hired me to refactor an existing site to make it more accessible.
+
+## **Table Of Contents**
+
+1. Links to deployed application and Github repository (public).
+2. User Story
+3. Acceptance Criteria
+4. Website Screenshot
+5. HTML Screenshot
+6. CSS Screenshot
+7. Credits
+
+
+## **Links**
+
+ #### View Deployed application @ https://davidlemerle.github.io/Code.Refractor/
+ #### Project repository @ https://github.com/davidlemerle/Code.Refractor
+
+
+## **User Story**
 
 ```
 AS A marketing agency
@@ -10,7 +30,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-## Acceptance Criteria
+## **Acceptance Criteria**
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -25,5 +45,17 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-
+## **Website Screenshot**
 ![Website Screenshot](./images/01-html-css-git-homework-demo.png)
+
+## **HTML Screenshot**
+![HTML Screenshot](./images/htmlscreenshot.png)
+
+## **CSS Screenshot**
+![CSS Screenshot](./images/csscreenshot.png)
+
+## **Credits**
+
+#### Horiseon Social Solution Services, Inc.
+#### Ahmed Meedaxa (Bootcamp Assigned Tutor)
+
