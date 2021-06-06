@@ -49,10 +49,10 @@ THEN I find a concise, descriptive title
 ![Website Screenshot](./images/01-html-css-git-homework-demo.png)
 
 ## **HTML Screenshot**
-![HTML Screenshot](./images/htmlscreenshot.png)
+![HTML Screenshot](./images/html-screenshot.png)
 
 ## **CSS Screenshot**
-![CSS Screenshot](./images/csscreenshot.png)
+![CSS Screenshot](./images/css-creenshot.png)
 
 ## **Credits**
 
